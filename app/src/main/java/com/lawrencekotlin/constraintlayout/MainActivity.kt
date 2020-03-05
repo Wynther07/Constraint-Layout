@@ -1,9 +1,8 @@
 package com.lawrencekotlin.constraintlayout
 
 import android.graphics.BitmapFactory
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.core.graphics.drawable.RoundedBitmapDrawable
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.graphics.drawable.RoundedBitmapDrawableFactory
 import kotlinx.android.synthetic.main.activity_main.*
 
